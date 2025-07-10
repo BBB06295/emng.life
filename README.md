@@ -1,2 +1,2 @@
 # emng.life
-very easy game play
+emng.in
